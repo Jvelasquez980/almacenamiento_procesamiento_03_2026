@@ -1,0 +1,1 @@
+Al no borrar los datos que se generaron anteriormente dentro de este taller, estos se siguen evidenciando dentro de la foto Nuevo Print del consumer.png
